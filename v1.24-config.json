@@ -6,7 +6,7 @@
 "old_k8s_client": "0.24.8",
 "new_k8s_client": "0.24.9",
 "handler": "nikolaishields",
-"workspace": "/tmp/dec-release",
+"workspace": "/tmp/dec-release/1.24",
 "email": "contact@nikolaishields.com",
 "release_branch": "release-1.24",
 "token": "xxxx"
