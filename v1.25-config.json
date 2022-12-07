@@ -8,6 +8,6 @@
 "handler": "nikolaishields",
 "workspace": "/tmp/dec-release/1.25",
 "email": "contact@nikolaishields.com",
-"release_branch": "master",
+"release_branch": "release-1.25",
 "token": "xxxx"
 }

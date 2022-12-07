@@ -1,0 +1,13 @@
+{
+"old_k8s_version": "v1.22.16",
+"new_k8s_version": "v1.22.17",
+"old_k3s_version": "k3s1",
+"new_k3s_version": "k3s1",
+"old_k8s_client": "0.22.16",
+"new_k8s_client": "0.22.17",
+"handler": "nikolaishields",
+"workspace": "/tmp/dec-release/1.22",
+"email": "contact@nikolaishields.com",
+"release_branch": "release-1.22",
+"token": "xxxx"
+}
