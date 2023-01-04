@@ -2,11 +2,11 @@
 "old_k8s_version": "v1.25.4",
 "new_k8s_version": "v1.25.5",
 "old_k3s_version": "k3s1",
-"new_k3s_version": "k3s1",
+"new_k3s_version": "k3s2",
 "old_k8s_client": "0.25.4",
 "new_k8s_client": "0.25.5",
 "handler": "nikolaishields",
-"workspace": "/tmp/dec-release/1.25",
+"workspace": "/home/nikolai/rancher/k3s-release/1.25",
 "email": "contact@nikolaishields.com",
 "release_branch": "release-1.25",
 "token": "xxxx"
