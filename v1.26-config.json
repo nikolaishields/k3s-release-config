@@ -8,6 +8,6 @@
 "handler": "nikolaishields",
 "workspace": "/home/nikolai/rancher/k3s-release/1.26",
 "email": "contact@nikolaishields.com",
-"release_branch": "release-1.26",
+"release_branch": "master",
 "token": "xxxx"
 }
